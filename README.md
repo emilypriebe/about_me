@@ -14,10 +14,9 @@ This website details information about Epicodus student, Emily Priebe, and was c
 * Read about Emily Priebe.
 * Enjoy! (_Hopefully!_)
 
-## Technologies Used
+## Link to Site
 
-This website was created using HTML and CSS.
-
+You can checkout this site on [GitHub Pages](http://emilypriebe.github.io/about_me/)!
 ### Legal
 
 Copyright (c) 2015 **Emily Priebe**
