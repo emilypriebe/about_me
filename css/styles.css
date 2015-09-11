@@ -2,4 +2,12 @@ h1 {
   font-family: sans-serif;
   font-weight: bold;
   text-align: center;
+  color: #3a54a4;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #3399ff;
 }
