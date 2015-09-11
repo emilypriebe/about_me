@@ -16,7 +16,7 @@ This website details information about Epicodus student, Emily Priebe, and was c
 
 ## Link to Site
 
-You can checkout this site on [GitHub Pages](http://emilypriebe.github.io/about_me/)!
+You can check out this site on [GitHub Pages](http://emilypriebe.github.io/about_me/)!
 ### Legal
 
 Copyright (c) 2015 **Emily Priebe**
